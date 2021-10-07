@@ -134,13 +134,13 @@ We may employ third party companies and individuals to facilitate our Service ("
 Advertising
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Service.
 
-Unity Ads
+Clever Ads Solutions
 
-Unity Ads is provided by Unity Technologies.
+Clever Ads Solutions is provided by PSV Games Studio LTD.
 
-You can opt-out from Unity Ads service by following the instructions as described by Unity Technologies on their Privacy Policy page: https://unity3d.com/legal/privacy-policy
+You can opt-out from Clever Ads Solutions service by following the instructions as described by PSV Games Studio LTD on their Privacy Policy page: https://cleveradssolutions.com/privacy-policy
 
-For more information about Unity Technologies, please visit Unity Technologies Privacy Policy: https://unity3d.com/legal/privacy-policy
+For more information about PSV Games Studio LTD, please visit PSV Games Studio LTD Privacy Policy: https://cleveradssolutions.com/privacy-policy
 
 Payments
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
